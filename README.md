@@ -1,1 +1,0 @@
-# Entity-relationship-model-Checkpoint
